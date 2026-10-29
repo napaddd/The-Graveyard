@@ -1,0 +1,27 @@
+{
+  "criteria": {
+    "got hit": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "player": {
+          "minecraft:location": {
+            "dimension": "graveyard:graveyard"
+          }
+        },
+        "damage": {
+          "type": {
+            "tags": [
+              {
+                "id": "minecraft:is_drowning",
+                "expected": true
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "graveyard:player/hit_by/drowning"
+  }
+}

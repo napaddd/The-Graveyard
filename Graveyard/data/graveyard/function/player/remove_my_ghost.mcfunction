@@ -1,0 +1,1 @@
+$execute as @e[type=mannequin,nbt={profile:{id:$(UUID)}}] run function graveyard:ghost/remove

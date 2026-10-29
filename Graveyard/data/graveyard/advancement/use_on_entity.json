@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "interacted": {
+      "trigger": "minecraft:player_interacted_with_entity"
+    }
+  },
+  "rewards": {
+    "function": "graveyard:use_on_entity"
+  }
+}

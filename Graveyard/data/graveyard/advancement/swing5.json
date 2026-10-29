@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "used on block": {
+      "trigger": "minecraft:item_used_on_block"
+    }
+  },
+  "rewards": {
+    "function": "graveyard:ghost/start_swing"
+  }
+}

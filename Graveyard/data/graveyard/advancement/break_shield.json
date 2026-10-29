@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "use": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "player": {
+          "minecraft:location": {
+            "dimension": "graveyard:graveyard"
+          }
+        },
+        "item": {
+          "items": "minecraft:shield"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "graveyard:player/break_shield"
+  }
+}

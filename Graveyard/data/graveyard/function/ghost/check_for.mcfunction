@@ -1,0 +1,1 @@
+$execute unless entity @n[type=mannequin,nbt={profile:{id:$(UUID)}}] run function graveyard:ghost/spawn

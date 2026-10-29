@@ -1,0 +1,2 @@
+$execute store result score @s ghost_count if entity @n[type=mannequin,nbt={profile:{id:$(UUID)}}]
+$execute if score @s ghost_count matches 2.. run execute as @n[type=mannequin,nbt={profile:{id:$(UUID)}}] run function graveyard:ghost/remove

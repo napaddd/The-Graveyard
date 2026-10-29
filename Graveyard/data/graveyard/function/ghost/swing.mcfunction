@@ -1,0 +1,1 @@
+$swing @n[type=mannequin,nbt={profile:{id:$(UUID)}}] mainhand

@@ -1,0 +1,3 @@
+give @s jigsaw[rarity="common",item_name="Recovery Core",item_model="nether_star",custom_data={full_revive:0b},max_stack_size=1] 1
+give @s music_disc_5[rarity="uncommon",item_name="Resurrection Crystal",item_model="end_crystal",custom_data={full_revive:1b},max_stack_size=1,enchantment_glint_override=true,!jukebox_playable] 1
+give @s music_disc_5[!jukebox_playable,rarity="rare",item_name="Reawakening Apple",item_model="apple",enchantment_glint_override=true,consumable={},custom_data={graveyard:apple}] 1

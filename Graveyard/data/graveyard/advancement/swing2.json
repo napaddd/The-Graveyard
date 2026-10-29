@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "placed": {
+      "trigger": "minecraft:placed_block"
+    }
+  },
+  "rewards": {
+    "function": "graveyard:ghost/start_swing"
+  }
+}

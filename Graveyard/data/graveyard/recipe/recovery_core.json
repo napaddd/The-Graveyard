@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ibi",
+    "bjb",
+    "ibi"
+  ],
+  "key": {
+    "i": "minecraft:iron_ingot",
+    "b": "minecraft:bone_block",
+    "j": "minecraft:jack_o_lantern"
+  },
+  "result": {
+    "components": {
+      "minecraft:rarity": "common",
+      "minecraft:item_name": "Recovery Core",
+      "minecraft:item_model": "minecraft:nether_star",
+      "minecraft:custom_data": {
+        "full_revive": false
+      },
+      "minecraft:max_stack_size": 1
+    },
+    "count": 1,
+    "id": "minecraft:jigsaw"
+  }
+}

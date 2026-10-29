@@ -1,0 +1,7 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "minecraft:nbt": "{Item:{components:{\"minecraft:custom_data\":{full_revive:0b}}}}"
+  }
+}

@@ -1,0 +1,1 @@
+$execute unless entity @a[nbt={UUID:$(id)}] run function graveyard:ghost/remove

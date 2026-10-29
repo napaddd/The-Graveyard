@@ -1,0 +1,9 @@
+execute if items entity @s weapon.mainhand minecraft:rotten_flesh if score @s eat_cooldown matches 0 run function graveyard:player/eat/rotten_flesh
+execute if items entity @s weapon.mainhand minecraft:bone if score @s eat_cooldown matches 0 run function graveyard:player/eat/bone
+execute if items entity @s weapon.mainhand minecraft:spider_eye if score @s eat_cooldown matches 0 run function graveyard:player/eat/spider_eye
+execute if items entity @s weapon.mainhand minecraft:gunpowder if score @s eat_cooldown matches 0 run function graveyard:player/eat/gunpowder
+execute if items entity @s weapon.mainhand minecraft:ender_pearl if score @s eat_cooldown matches 0 run function graveyard:player/eat/ender_pearl
+execute if items entity @s weapon.mainhand minecraft:slime_ball if score @s eat_cooldown matches 0 run function graveyard:player/eat/slime_ball
+execute if items entity @s weapon.mainhand minecraft:creaking_heart if score @s eat_cooldown matches 0 run function graveyard:player/eat/creaking_heart
+execute if items entity @s weapon.mainhand minecraft:ink_sac if score @s eat_cooldown matches 0 run function graveyard:player/eat/ink_sac
+execute if items entity @s weapon.mainhand minecraft:glow_ink_sac if score @s eat_cooldown matches 0 run function graveyard:player/eat/glow_ink_sac

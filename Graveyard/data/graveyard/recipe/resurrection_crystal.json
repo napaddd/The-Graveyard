@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gag",
+    "aca",
+    "gag"
+  ],
+  "key": {
+    "g": "minecraft:ghast_tear",
+    "a": "minecraft:amethyst_shard",
+    "c": "minecraft:jigsaw"
+  },
+  "result": {
+    "components": {
+      "minecraft:rarity": "uncommon",
+      "minecraft:item_name": "Resurrection Crystal",
+      "minecraft:item_model": "minecraft:end_crystal",
+      "!minecraft:jukebox_playable": {},
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:custom_data": {
+        "full_revive": true
+      }
+    },
+    "count": 1,
+    "id": "minecraft:music_disc_5"
+  }
+}

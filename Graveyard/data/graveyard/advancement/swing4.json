@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "using": {
+      "trigger": "minecraft:using_item"
+    }
+  },
+  "rewards": {
+    "function": "graveyard:ghost/start_swing"
+  }
+}
