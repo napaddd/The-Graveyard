@@ -57,7 +57,7 @@ Players stuck in the Graveyard can still get out by themselves. They will need t
 
 To fully save someone from the Graveyard, a player from the Overworld will need to upgrade a Recovery Core to a Resurrection Crystal. This item can be dropped to a ghost's feet or to a recovered/reawakened player to fully resurrect them.
 
-**See crafting recipes in Gallery Tab**
+**See crafting recipes in Gallery Tab of the Modrinth page**
 
 ## Info
 Keep Inventory is always off to prevent players from smuggling items in the Graveyard.
